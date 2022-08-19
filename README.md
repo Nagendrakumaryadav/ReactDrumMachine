@@ -1,6 +1,6 @@
 # boilerplate-react-functional-public
 Tech stack:html,css,reactjs                                                                                                                                              
-Project Host:https://react-drum-machine-mithlesh.netlify.app/                                                                                                            
+Project Host:https://react-drume-machine-nagendra.netlify.app/                                                                                                           
 Create a drum machine application in Using React. js.
 
 Add a power button to turn drum on and off.
